@@ -73,7 +73,7 @@ a:hover{
 
 .mountains {
   position: relative;
-  margin-left: 650px;
+
 
 }
 
@@ -131,7 +131,8 @@ a:hover{
 }
 
 .trophy-img {
-  width: 25%;
+  height: 250px;
+  width: 250px;
   float: left;
   margin-right: 30px;
   border-radius: 100%;
@@ -140,7 +141,8 @@ a:hover{
 .l {}
 
 .programming-img {
-  width: 25%;
+  height: 250px;
+  width: 250px;
   float: right;
   margin-left: 30px;
 }
