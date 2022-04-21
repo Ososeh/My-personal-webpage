@@ -109,7 +109,13 @@ a:hover{
   right: 280px;
   top: 40px;
 }
+.sun{
+  height: 160px;
+  width: 160px;
 
+
+
+}
 .bottom-cloud {
   position: absolute;
   height: 160px;
